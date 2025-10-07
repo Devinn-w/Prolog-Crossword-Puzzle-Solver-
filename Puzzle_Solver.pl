@@ -1,4 +1,3 @@
-% Author: BINZHEN WEI (Student ID: 1575618)
 
 % Purpose: This Prolog program solves a crossword puzzle by inserting words of 
 % a given word list.
